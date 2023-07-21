@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and web development
 
 - 🌱 I’m currently Exploring DSA and web development
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ...
 
 <!---
